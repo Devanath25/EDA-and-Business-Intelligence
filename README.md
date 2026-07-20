@@ -227,7 +227,13 @@ The insights generated in this task will be used in the next stages of the inter
 
 ## 👨‍💻 Author
 
-**Devanath R**
+R Devanath 
+
+E mail : devanathravi25@gmail.com
+
+linked In : https://www.linkedin.com/in/devanathr
+
+ApexPlanet Data Analytics Internship
 
 
 ## 🙏 Acknowledgement
