@@ -153,9 +153,6 @@ Task2_EDA_Business_Intelligence/
 ├── README.md
 ├── EDA.ipynb
 ├── Cleaned_Sales_Dataset.xlsx
-├── EDA_Summary.xlsx
-├── SQL_Queries.sql
-├── Dashboard_Mockup.pdf
 ├── sales.db
 └── images/
       ├── age_histogram.png
